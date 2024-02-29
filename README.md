@@ -15,5 +15,9 @@ We are currently Working on an App<br>We are learning to develop advanced featur
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Algorhythmic-Duo&theme=highcontrast&hide_border=false)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Algorhythmic-Duo&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Algorhythmic-Duo&icon=0&color=0)](https://visitcount.itsvg.in)<br/>
+
+<img src="https://raw.githubusercontent.com/Algorhythmic-Duo/Algorhythmic-Duo/output/snake.svg" alt="Snake animation" />
+
+###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
