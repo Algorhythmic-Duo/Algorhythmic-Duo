@@ -11,4 +11,9 @@ We are currently Working on an App<br>We are learning to develop advanced featur
 ![](https://github-readme-stats.vercel.app/api?username=Algorhythmic-Duo&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Algorhythmic-Duo&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Algorhythmic-Duo&theme=highcontrast&hide_border=false)<br/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Algorhythmic-Duo&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
