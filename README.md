@@ -1,5 +1,5 @@
 # 💫 About Me:
-We are currently Working on an App<br>We are learning to develop advanced features in Android<br>We are enthusiastic coders 
+We are Developer Duo working or different projects ranging from simeple hellow world to machine learing <br>We are currently Working on an App<br>We are learning to develop advanced features in Android<br>We are enthusiastic coders<br> we are machine learning pyschos
 
 
 ## 🌐 Socials:
