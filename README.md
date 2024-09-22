@@ -14,6 +14,9 @@ We are Developer Duo working or different projects ranging from simple "Hello Wo
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Algorhythmic-Duo&theme=highcontrast&hide_border=false)<br/>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Algorhythmic-Duo%20&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br>
+
+
 <img src="https://raw.githubusercontent.com/Algorhythmic-Duo/Algorhythmic-Duo/output/snake.svg" alt="Snake animation" />
 
 [![](https://visitcount.itsvg.in/api?id=Algorhythmic-Duo&icon=0&color=0)](https://visitcount.itsvg.in)<br/>
